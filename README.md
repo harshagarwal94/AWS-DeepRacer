@@ -1,4 +1,4 @@
-# Krypto-The website shows different templates of Ecommerce website. 
+# Krypto-The website shows different templates of Ecommerce website. (Front End tsk)
 Functionalities include:- 
 1) Login page to Login the user. 
 2) Registration page for the new users with basic functionalities. 
