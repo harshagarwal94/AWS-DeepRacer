@@ -15,3 +15,5 @@ Python
 <hr>
 Here in this repo i am sharing my progress with the DeepRacer . My Current Rank in August Leaderboard is 300. Though I had a prior knowldge of Machine Learning, The experience made me learn alot from scratch. 
 Sharing all the model for the references. 
+
+# MIT LICENSED
